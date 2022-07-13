@@ -21,7 +21,7 @@ for (let i = 0; i < arrayOfNumbers.length; i++) {
 }
     return arrayOfNumbers.length;
 }
-// assignment.sumOfNumbers = sumOfNumbers;
+
 
 /**
  * Challenge - 2
@@ -43,8 +43,6 @@ function countEvenNumbers(arrayOfNumbers) {
 
 // return arrayOfNumbers.length;
 }
-// assignment.countEvenNumbers = countEvenNumbers;
-
 /**
  * Challenge - 3
  * 
